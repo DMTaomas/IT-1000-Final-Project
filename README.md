@@ -1,7 +1,7 @@
-# IT-1000-Final-Project
-2019SP INFOTC MUSSER
+## IT-1000-Final-Project
+# 2019SP INFOTC MUSSER
 
-Rural Broadband Access - What is Broadband, and why does it matter?
+# Rural Broadband Access - What is Broadband, and why does it matter?
 
 Thomas Semkiw
 

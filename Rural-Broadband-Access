@@ -7,30 +7,30 @@ What actually is broadband? What is the debate to define it, and how is it acces
 #### 1. What is Broadband?
 
 Broadband can be loosely defined as access to high speed internet access. When defining high speed internet access, we must reduce the problem to be most basic level of how the internet is accessed. 
-When thinking about how data is transferred across the internet, the smallest unit of data is called a **bit**. Bits are represented as either 0s or 1s, off or on respectively. They are physically represented (in a PC, for example) as an electrical charge. 
+When thinking about how data is transferred across the internet, the smallest unit of data is called a **bit**. [Bits](https://en.wikipedia.org/wiki/Bit) are represented as either 0s or 1s, off or on respectively. They are physically represented (in a PC, for example) as an electrical charge. 
 Going up the scale, a group of 8 bits is known as a **byte**.
 
-Next, we must transfer that data represented in bits/bytes from one place to another. Bandwidth is essentially the maximum rate of data transferred along a given path (SOURCE), defined as a unit of data over time (SOURCE). 
+Next, we must transfer that data represented in bits/bytes from one place to another. [Bandwidth](https://en.wikipedia.org/wiki/Bandwidth_(computing)) is essentially the maximum rate of data transferred along a given path (SOURCE), defined as a unit of data over time (SOURCE). 
 If a network had a 100 Mbps bandwidth, it would transfer 100 million bits per second (this is excluding the fact that networks are not 100% efficient, so they would lose some of that data, but one gets the general idea). 
 
-As technology has progressed, our maximum bandwidth has increased, and given us abilities to do more and more things. In the early 2000s, dial-up subscriptions made up the vast majority of internet access subscriptions.
-Dial-up can be accessed where any phone line is in place, and can be connected by making a phone call, opposed to having constant, instant access. Dial up connections are notoriously slow compared to modern day connections, with a typical download speed of 56 kbps. 
+As technology has progressed, our maximum bandwidth has increased, and given us abilities to do more and more things. In the early 2000s, dial-up subscriptions made up the [vast majority of internet access subscriptions](http://www.oecd.org/internet/ieconomy/48255770.pdf).
+Dial-up can be accessed where any phone line is in place, and can be connected by making a phone call, opposed to having constant, instant access. Dial up connections are [notoriously slow](https://www.explainthatstuff.com/howbroadbandworks.html) compared to modern day connections, with a typical download speed of 56 kbps. 
 For example, a single song might take a half hour to download. Now, in Urban areas, dialup has all but disappeared in favor of broadband access. 
 
-Broadband access is round the clock access to high speed internet. What is actually defined as “broadband” is up for debate, and (in the US) is most clearly defined by the FCC. The first definition of broadband was made in 1996, as 200 kbps upload and download speeds. 
-This was kept in place until 2010, where it was updated to 4mbps download speeds and 1mbps upload speeds. In 2015, it was finally updated to the current levels of 25 mbps download and 3 mbps upload speeds. (source) 
+Broadband access is round the clock access to high speed internet. What is actually defined as “broadband” is up for debate, and (in the US) is most clearly [defined by the FCC](https://broadbandnow.com/report/fcc-broadband-definition/) . The first definition of broadband was made in 1996, as 200 kbps upload and download speeds. 
+This was kept in place until 2010, where it was updated to 4mbps download speeds and 1mbps upload speeds. In 2015, it was finally updated to the current levels of 25 mbps download and 3 mbps upload speeds. 
 
 
 #### 2. Current state of access in rural communities
 
 Recently, the definition of broadband was subject to more changes. The current FCC commissioner proposed that those covered by 10mbps mobile download speeds would be defined as having broadband access, which would artificially increase the amount of people who can be defined as being able to access broadband speeds. 
-In fact, many in America don’t have access to broadband speeds, and the FCC overestimates how many have access to broadband. A recent article showed that while 92% of people have access or “could” have access to broadband speeds, while Microsoft data implies that half of all people using Microsoft products aren’t using them at broadband speeds. 
+In fact, many in America don’t have access to broadband speeds, and the FCC overestimates how many have access to broadband. A [recent article](https://www.marketwatch.com/story/its-microsoft-vs-comcast-in-infrastructure-push-to-expand-rural-broadband-2019-05-06) showed that while 92% of people have access or “could” have access to broadband speeds, while Microsoft data implies that half of all people using Microsoft products aren’t using them at broadband speeds. 
 As we drill down deeper into this, we return to the topic of this piece, the inequality between urban and rural internet users. In 2016, 39% of rural people didn’t have have access to broadband internet access, compared to 4% of urban people. In 2015, 75% of urban people used the internet, compared to 69% of rural people. (The conversation source) 
-When you take into account that advertised speeds are often not what they say they are, broadband access for most rural Americans ends up being more of an imaginative number than a reality. 
+When you take into account that advertised speeds are often [not what they say they are](https://www.fcc.gov/reports-research/reports/measuring-broadband-america/measuring-broadband-america-2015), broadband access for most rural Americans ends up being more of an imaginative number than a reality. 
 
 There are numerous was in which rural communities are left behind due to the lack of high speed internet access. Children attempting to access schoolwork are stuck with buffering websites. 
 Those that rely on telemedicine are often disadvantaged compared to urban communities, with spotty connections that decrease the ability to monitor diabetes patients. 
-This could be a reason why “the prevalence of diabetes is 41 percent higher than the national average in in the country’s least-connected rural communities.” (source) Leaves one to wonder, how can we fix this inequality?
+This could be a reason why [“the prevalence of diabetes is 41 percent higher than the national average in in the country’s least-connected rural communities.”](https://www.nextavenue.org/broadband-telemedicine-rural-areas/) 
 
 
 #### 3. Looking to the future
